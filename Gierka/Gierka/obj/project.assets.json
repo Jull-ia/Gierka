@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akach\\.vscode\\Programowanie Projekty\\Gierka\\Gierka.csproj",
+      "projectUniqueName": "C:\\Users\\akach\\.vscode\\Programowanie Projekty\\Gierka\\Gierka\\Gierka.csproj",
       "projectName": "Gierka",
-      "projectPath": "C:\\Users\\akach\\.vscode\\Programowanie Projekty\\Gierka\\Gierka.csproj",
+      "projectPath": "C:\\Users\\akach\\.vscode\\Programowanie Projekty\\Gierka\\Gierka\\Gierka.csproj",
       "packagesPath": "C:\\Users\\akach\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akach\\.vscode\\Programowanie Projekty\\Gierka\\obj\\",
+      "outputPath": "C:\\Users\\akach\\.vscode\\Programowanie Projekty\\Gierka\\Gierka\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\akach\\AppData\\Roaming\\NuGet\\NuGet.Config"

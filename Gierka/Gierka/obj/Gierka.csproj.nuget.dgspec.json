@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\akach\\.vscode\\Programowanie Projekty\\Gierka\\Gierka.csproj": {}
+    "C:\\Users\\akach\\.vscode\\Programowanie Projekty\\Gierka\\Gierka\\Gierka.csproj": {}
   },
   "projects": {
-    "c:\\Users\\akach\\.vscode\\Programowanie Projekty\\Gierka\\Gierka.csproj": {
+    "C:\\Users\\akach\\.vscode\\Programowanie Projekty\\Gierka\\Gierka\\Gierka.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\akach\\.vscode\\Programowanie Projekty\\Gierka\\Gierka.csproj",
+        "projectUniqueName": "C:\\Users\\akach\\.vscode\\Programowanie Projekty\\Gierka\\Gierka\\Gierka.csproj",
         "projectName": "Gierka",
-        "projectPath": "c:\\Users\\akach\\.vscode\\Programowanie Projekty\\Gierka\\Gierka.csproj",
+        "projectPath": "C:\\Users\\akach\\.vscode\\Programowanie Projekty\\Gierka\\Gierka\\Gierka.csproj",
         "packagesPath": "C:\\Users\\akach\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\akach\\.vscode\\Programowanie Projekty\\Gierka\\obj\\",
+        "outputPath": "C:\\Users\\akach\\.vscode\\Programowanie Projekty\\Gierka\\Gierka\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\akach\\AppData\\Roaming\\NuGet\\NuGet.Config"

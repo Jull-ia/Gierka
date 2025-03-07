@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gierka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c182cf58169828b1cbfb165327156b785db063c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gierka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gierka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
